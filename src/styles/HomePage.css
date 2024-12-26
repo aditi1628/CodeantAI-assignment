@@ -1,0 +1,8 @@
+.home-page{
+    padding: 2rem;
+}
+.stats-section{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 2rem;
+}
